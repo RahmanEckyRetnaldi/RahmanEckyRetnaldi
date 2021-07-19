@@ -18,7 +18,6 @@
 <span>
   <img src="https://github-readme-stats.vercel.app/api?username=RahmanEckyRetnaldi&count_private=true&show_icons=true&theme=tokyonight&show_owner=true" alt="GitHub Stats" width=400></span>
 <span>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahmanEckyRetnaldi&layout=compact&count_private=true&langs_count=8" alt="Counter" width=400 height=180>
 </span>
 
 <!--
