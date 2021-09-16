@@ -14,11 +14,7 @@
   </a> 
 </p>
 
-<h1>GitHub Stats</h1>
-<span>
-  <img src="https://github-readme-stats.vercel.app/api?username=RahmanEckyRetnaldi&count_private=true&show_icons=true&theme=tokyonight&show_owner=true" alt="GitHub Stats" width=400></span>
-<span>
-</span>
+[![Rahman's github stats](https://github-readme-stats.vercel.app/api?username=RahmanEckyRetnaldi&count_private=true&show_icons=true&theme=radical&hide_rank=false)]
 
 <!--
 **RahmanEckyRetnaldi/RahmanEckyRetnaldi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
