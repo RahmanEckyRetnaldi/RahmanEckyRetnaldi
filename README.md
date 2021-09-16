@@ -15,6 +15,7 @@
 </p>
 
 [![Rahman's github stats](https://github-readme-stats.vercel.app/api?username=RahmanEckyRetnaldi&count_private=true&show_icons=true&theme=algolia&hide_rank=false)](https://github.com/RahmanEckyRetnaldi/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RahmanEckyRetnaldi&layout=compact)](https://github.com/RahmanEckyRetnaldi/github-readme-stats)
 
 
 
