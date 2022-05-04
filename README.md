@@ -3,7 +3,7 @@
 ### Hi there 👋 I'am Rahman Ecky Retnaldi
 
 - 🔭  Currently learning `Go`,`Java`,`Kotlin`,`Jetpack Compose`,`Laravel`
-- 📱  Iot Developer [Cexup](https://cexup.com)
+- 📱  Mobile Developer & Iot Developer [Cexup](https://cexup.com)
 
 <p>
   <a href="https://www.twitter.com/rahmanecky">
