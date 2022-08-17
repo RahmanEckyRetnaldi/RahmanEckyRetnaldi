@@ -17,7 +17,7 @@
 [![Rahman's github stats](https://github-readme-stats.vercel.app/api?username=RahmanEckyRetnaldi&count_private=true&show_icons=true&theme=algolia&hide_rank=true)](https://github.com/RahmanEckyRetnaldi/github-readme-stats)
 
 <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahmanEckyRetnaldie&layout=compact" height=180 />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahmanEckyRetnaldi&layout=compact" height=180 />
 </p>
 
 
