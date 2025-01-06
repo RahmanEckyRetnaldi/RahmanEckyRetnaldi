@@ -2,7 +2,7 @@
 
 ### Hi there 👋 I'am Rahman Ecky Retnaldi
 
-- 🔭  Currently learning `Go`,`Java`,`Kotlin`,`Jetpack Compose`,
+- 🔭  Tech Stack `Java`,`Kotlin`,`Jetpack Compose`,`flutter: dart`,
 - 📱  Mobile Android Developer [Akar Inti Teknologi](https://Akarinti.tech)
 <!-- - 📱  Mobile Developer & Iot Developer [Cexup](https://cexup.com)  -->
 
