@@ -3,7 +3,7 @@
 ### Hi there 👋 I'am Rahman Ecky Retnaldi
 
 - 🔭  Tech Stack `Java`,`Kotlin`,`Jetpack Compose`,`flutter: dart`,
-- 📱  Mobile Android Developer [Akar Inti Teknologi](https://Akarinti.tech)
+- 📱  Mobile Android Developer [Member ID](https://member.id/)
 <!-- - 📱  Mobile Developer & Iot Developer [Cexup](https://cexup.com)  -->
 
 <p>
